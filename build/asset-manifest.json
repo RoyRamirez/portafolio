@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.115bc9fc.chunk.css",
+    "main.js": "/static/js/main.862b04fd.chunk.js",
+    "main.js.map": "/static/js/main.862b04fd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a8eca24e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a8eca24e.js.map",
+    "static/js/2.617afb38.chunk.js": "/static/js/2.617afb38.chunk.js",
+    "static/js/2.617afb38.chunk.js.map": "/static/js/2.617afb38.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.115bc9fc.chunk.css.map": "/static/css/main.115bc9fc.chunk.css.map",
+    "static/js/2.617afb38.chunk.js.LICENSE.txt": "/static/js/2.617afb38.chunk.js.LICENSE.txt",
+    "static/media/fakebook.f423c848.png": "/static/media/fakebook.f423c848.png",
+    "static/media/foto.2319bbbb.jpg": "/static/media/foto.2319bbbb.jpg",
+    "static/media/invie.1948d998.png": "/static/media/invie.1948d998.png",
+    "static/media/react.93a4bdf1.png": "/static/media/react.93a4bdf1.png",
+    "static/media/stack.fa812a87.png": "/static/media/stack.fa812a87.png",
+    "static/media/tareas.d4451b63.png": "/static/media/tareas.d4451b63.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8eca24e.js",
+    "static/js/2.617afb38.chunk.js",
+    "static/css/main.115bc9fc.chunk.css",
+    "static/js/main.862b04fd.chunk.js"
+  ]
+}
