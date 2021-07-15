@@ -1,0 +1,20 @@
+.trabajo {
+  width: 340px;
+  background: white;
+  margin-top: 50px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.bgnd-img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+.trabajo-desc {
+  font-size: 20px;
+}
+.botones {
+  margin: 15px 0 20px 0;
+}
